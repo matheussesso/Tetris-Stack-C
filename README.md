@@ -1,6 +1,6 @@
 # Tetris Stack - Desafios em C
 
-Série de três programas educacionais em C que simulam o gerenciamento de peças do jogo Tetris Stack, progredindo em complexidade com estruturas de dados.
+Série de três trabalhos educacionais em C que simulam o gerenciamento de peças do jogo Tetris Stack, progredindo em complexidade com estruturas de dados.
 
 ## Arquivos
 
